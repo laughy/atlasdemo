@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dalvikpatch-1.0.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atlas-core/libs/dalvikpatch-1.0.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

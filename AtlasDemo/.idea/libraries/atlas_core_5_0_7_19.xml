@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="atlas_core-5.0.7.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/bbac7614b6fe64c0b47e792885170eae0559103d/output/jars/libs/android-art-interpret-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/bbac7614b6fe64c0b47e792885170eae0559103d/output/jars/libs/dalvikpatch-1.0.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/bbac7614b6fe64c0b47e792885170eae0559103d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/bbac7614b6fe64c0b47e792885170eae0559103d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/bbac7614b6fe64c0b47e792885170eae0559103d/output/jars/libs/dalvik_hack-3.0.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/atlas_core/5.0.7.19/e933108e4d81f8d3602d3d8a0ad2c3e86fa7bc6a/atlas_core-5.0.7.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-launcher-3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atlas-gradle-plugin/test/libs/gradle-launcher-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

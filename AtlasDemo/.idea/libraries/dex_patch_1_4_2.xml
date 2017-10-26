@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dex_patch-1.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/dex_patch/1.4.2/adc9b7ed9f76509a0999878c63338049ba4de99d/dex_patch-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/dex_patch/1.4.2/7989892d72fe71f924ddeb75c374806ebe21b5eb/dex_patch-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

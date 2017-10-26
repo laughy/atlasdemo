@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dalvik_hack-3.0.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atlas-core/libs/dalvik_hack-3.0.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

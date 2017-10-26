@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="atlasupdate-1.1.4.10">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/9f6317da5174428d5f71ecb8e38c51ca0ac34c1f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9f6317da5174428d5f71ecb8e38c51ca0ac34c1f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/atlasupdate/1.1.4.10/e1ebba49cd1918ad7a17c5837e2cce5d5917dde6/atlasupdate-1.1.4.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

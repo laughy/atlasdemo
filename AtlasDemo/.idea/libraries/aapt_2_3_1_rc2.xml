@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aapt-2.3.1.rc2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/aapt/2.3.1.rc2/af3b8747854c5ca14dc9a7aa2098ed2423d201f7/aapt-2.3.1.rc2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/aapt/2.3.1.rc2/1d6cff80181455fe8e8d15e6eece1e64c922ee1e/aapt-2.3.1.rc2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
