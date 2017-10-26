@@ -1,0 +1,19 @@
+include ':middlewarelibrary'
+include ':secondbundlelibrary'
+include ':lottie'
+include ':activitygroupcompat'
+include ':firstbundle'
+include ':secondbundle'
+include ':publicbundle'
+include ':remotebundle'
+include ':databindbundle'
+include ':splashscreen'
+include ':app'
+
+include ':atlas-core'
+
+include ':aapt', ':dexpatch', ':atlas-plugin',':atlas-update',':test'
+project(':aapt').projectDir = new File('atlas-gradle-plugin/aapt')
+project(':dexpatch').projectDir = new File('atlas-gradle-plugin/dexpatch')
+project(':atlas-plugin').projectDir = new File('atlas-gradle-plugin/atlas-plugin')
+project(':test').projectDir = new File('atlas-gradle-plugin/test')
